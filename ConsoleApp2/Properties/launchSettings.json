@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\projects\\ConsoleApp2\\ConsoleApp2\\Samplefiles\\LP_210095893_20150901T011608049.csv"
+    }
+  }
+}
